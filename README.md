@@ -1,14 +1,14 @@
 # Weather Wise
 
-Get wise to the weather outside; don't be surprised! This is a projoect connecting to an open-source weather API which allows users to lookup the weather for a particular location.
+Get wise to the weather outside; don't be surprised! This is a project connecting to an open-source weather API which allows users to lookup the weather for a particular location.
 
 ---
 
 ## Development Setup
 
-Prioor to working on this prooject, make sure you have [`nvm`](https://github.com/nvm-sh/nvm) installed locally (or [`nvm-windows`](https://github.com/coreybutler/nvm-windows) if you are working on a Windows platform).
+Prior to working on this project, make sure you have [`nvm`](https://github.com/nvm-sh/nvm) installed locally (or [`nvm-windows`](https://github.com/coreybutler/nvm-windows) if you are working on a Windows platform).
 
-After cloning the project, switch to the project's node versiono specified in the `.nvmrc` by running:
+After cloning the project, switch to the project's node version specified in the `.nvmrc` by running:
 
 ```
 nvm use
@@ -30,7 +30,7 @@ npm run dev
 
 Instead of guessing what your day will hold, take initiative and prepare yourself for rain or wind or snow. Get a sense of the protection you may need before you head outside to explore your surroundings. Always keep an eye out and make sure you are weather wise!
 
-Weather Wise provides weather information for the city provided to the app. This includes current weather conditions and possibly in the future to inclide hourly, daily, and alerts for the specified location.
+Weather Wise provides weather information for the city provided to the app. This includes current weather conditions. Poossible future features: hourly, daily, and alerts for the specified location.
 
 ## How to Get Started
 
